@@ -1,0 +1,4 @@
+name: Skywars
+version: '${project.version}'
+main: com.darktroll.skywars.Skywars
+api-version: 1.16
