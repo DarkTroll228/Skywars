@@ -1,0 +1,4 @@
+commands:
+  menu:
+    description: Skywars menu
+    usage: /menu

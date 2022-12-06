@@ -1,0 +1,8 @@
+games:
+  'islands':
+    minPlayers: 2
+    maxPlayers: 8
+    world: 'islands_sw'
+    isTeamGame: false
+    spawnPoints:
+      - ''
